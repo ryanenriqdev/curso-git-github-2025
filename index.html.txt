@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+	<title>Testando</title>
+	<meta charset="utf-8">
+	<meta name="viewport" contente="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+	<h1>Testando o git</h1>
+</body>
+
+
+</html>
