@@ -10,6 +10,8 @@ Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
 O curso ta muito massa!
 
+Se liga no canal do Téo Me Why, bom de verdade!
+
 ##Fluxo de trabalho Git local
 
 01. git checkout -b <nova-branch>
