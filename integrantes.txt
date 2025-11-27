@@ -3,5 +3,3 @@ integrantes:
 Ryan
 Diogo
 Lemuel
-
-Joãozinho
